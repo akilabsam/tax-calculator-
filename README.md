@@ -21,7 +21,7 @@ JAVA
 > revenue_1, revenue_2, ... , revenue_n
 
 ## Author
-Akila Bandara - ['GitHub'](https://github.com/akilabsam)
+Akila Bandara - [`GitHub`](https://github.com/akilabsam)
 
 
 
