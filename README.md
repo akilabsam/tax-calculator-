@@ -2,10 +2,10 @@
 A simple java program to calculate estimated tax based on the monthly foreign income entered by the user.Valid since April, 2025.
 
 ## Features
--Takes monthly foreign revenue input.<br>
--Caculates cumulative revenue.<br>
--Applies tax logic based on range.<br>
--Promts tax output clearly.
+- Takes monthly foreign revenue input.<br>
+- Caculates cumulative revenue.<br>
+- Applies tax logic based on range.<br>
+- Promts tax output clearly.
 
 ## Tech Stack
 JAVA
